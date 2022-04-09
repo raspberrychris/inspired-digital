@@ -1,14 +1,13 @@
 ---
-title: "Creating a New Hugo Post"
-date: 2019-08-01T16:19:26+06:00
-draft: false
+title: Creating a New Hugo Post
+date: 2019-08-01T16:19:26.000+06:00
 image: images/blog/post-6.jpg
-bgImage: "images/backgrounds/page-title.jpg"
-description: "this is meta description"
+bgImage: images/backgrounds/page-title.jpg
+description: this is meta description
 author: Themefisher
-type : post
----
+type: post
 
+---
 # Heading 1
 ## Heading 2
 ### Heading 3
