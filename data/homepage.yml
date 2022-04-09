@@ -60,9 +60,9 @@ project:
 ################################## call to action ###########################
 cta:
   enable : true
-  title : "Let's Start With Us!"
+  title : "Want to get Inspired?"
   bgImage : "images/backgrounds/cta-bg.jpg"
-  content : "Lorem ipsum dolor sit amet, magna habemus ius ad"
+  content : "Are you ready to grow your business? Get in Touch!"
   button :
     enable : true
     label : "Let’s talk"
@@ -79,5 +79,5 @@ pricing:
 ############################## blog ######################################
 blog:
   enable : true
-  title : "Latest News"
+  title : "Blog"
   # blog content comes from `content/blog` folder
