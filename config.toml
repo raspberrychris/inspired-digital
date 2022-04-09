@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
 baseURL = "/"
 languageCode = "en-us"
-title = "Agen | Bootstrap Agency Template"
+title = "A Different Type of SEO Agency - Inspired.digital"
 theme = "agen-hugo"
 
 #################################### Plugins ##########################################
@@ -49,8 +49,8 @@ theme = "agen-hugo"
   weight = 2
 
   [[menu.main]]
-  name = "Service"
-  URL = "service"
+  name = "Services"
+  URL = "services"
   weight = 3
 
   [[menu.main]]
@@ -118,7 +118,7 @@ theme = "agen-hugo"
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/inspired-logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
