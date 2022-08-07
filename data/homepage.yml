@@ -1,15 +1,13 @@
 ############################## Banner ###################################
 banner:
   bgImage : "images/banner/banner2.jpg"
-  title : "We're an SEO Agency in London"
+  title : "We're an SEO Agency in the UK"
 
 ########################### services ##################################
 service:
   enable : true
   title : "Our Services"
-  subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat."
+  subtitle : "SEO, Affiliate Marketing, Niche Website Creation"
   # service item comes from 'service.yml'
 ############################ features #################################
 feature:
