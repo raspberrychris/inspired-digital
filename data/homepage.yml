@@ -1,6 +1,6 @@
 ############################## Banner ###################################
 banner:
-  bgImage : "images/banner/banner2.jpg"
+  bgImage : ""
   title : "We're an SEO Agency in the UK"
 
 ########################### services ##################################
