@@ -1,6 +1,6 @@
 ############################## Banner ###################################
 banner:
-  bgImage : "https://cdn.wallpapersafari.com/86/48/yQaL0u.jpg"
+  bgImage : "/images/backgrounds/page-title.jpg"
   title : "We're an SEO Agency in the UK"
 
 ########################### services ##################################
