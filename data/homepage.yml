@@ -1,17 +1,17 @@
 ############################## Banner ###################################
 banner:
   bgImage : "/images/backgrounds/page-title.jpg"
-  title : "We're an SEO Agency in the UK"
+  title : "SEO Consultation and Niche Site Builders"
 
 ########################### services ##################################
 service:
   enable : true
   title : "Our Services"
-  subtitle : "SEO, Affiliate Marketing, Niche Website Creation"
+  subtitle : "SEO and Niche Website Creation"
   # service item comes from 'service.yml'
 ############################ features #################################
 feature:
-  enable : true
+  enable : false
   image : "images/feature.jpg"
   title : "We know What Bait to Use"
   featureItem:
@@ -38,31 +38,31 @@ feature:
 
 ############################# promo video #################################
 promo:
-  enable : true
+  enable : false
   bgImage : "images/backgrounds/about-bg.jpg"
   title : "Who We Are"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   videoURL : "https://www.youtube.com/watch?v=jrkvirglgaQ"
   button:
-    enable : true
+    enable : false
     label : "Read More"
     link : "about"
 
 
 ############################## project ####################################
 project:
-  enable : true
+  enable : false
   title : "Our Feature Works"
   # project item comes from 'project.yml'
 
 ################################## call to action ###########################
 cta:
-  enable : true
+  enable : false
   title : "Want to get Inspired?"
   bgImage : "images/backgrounds/cta-bg.jpg"
   content : "Are you ready to grow your business? Get in Touch!"
   button :
-    enable : true
+    enable : false
     label : "Let’s talk"
     link : "contact"
 
