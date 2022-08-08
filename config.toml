@@ -118,7 +118,7 @@ theme = "agen-hugo"
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/Inspired-small-logo.png"
+logo = "images/inspired-digital-logo-removebg-preview.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
