@@ -69,7 +69,7 @@ cta:
 
 ############################## pricing ######################################
 pricing:
-  enable : true
+  enable : false
   title : "Our Smart Pricing Table"
   # pricing table comes from 'pricing.yml'
 
