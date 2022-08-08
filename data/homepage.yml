@@ -16,7 +16,7 @@ feature:
   title : "We know What Bait to Use"
   featureItem:
     # feature item
-    - title : "User Experience"
+    - title : "SEO"
       icon : "ti-vector" # themify icon pack https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
 
