@@ -114,8 +114,6 @@ theme = "agen-hugo"
   URL = "contact"
   weight = 5
 
-
-
 ########################### Default parameters ##########################
 [params]
 logo = "images/inspired-digital-white-logo.png"
@@ -147,7 +145,7 @@ googleAnalitycsID = "Your ID"
 
   # copyright
   [params.copyright]
-  copyright = "Copyright &copy; 2022 [inspired.digital](https://inspired.digital)"
+  copyright = "Copyright &copy; 2022 [Inspired.digital](https://inspired.digital)"
 
   ######################### Social site ##############################
   [[params.social]]
