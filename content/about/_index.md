@@ -2,8 +2,8 @@
 title: "About"
 date: 2022-07-08T16:19:26+06:00
 draft: false
-bgImage: "images/backgrounds/page-title.jpg"
-description: "this is meta description"
+bgImage: "/images/backgrounds/background2.jpg"
+description: ""
 ---
 
 Inspired.digital provides SEO Consultation for companies that want to improve their organic SEO rankings and to establish a strong foundation for long term growth.  
