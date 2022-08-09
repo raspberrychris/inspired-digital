@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
-baseURL = "/"
+baseURL = "https://inspired.digital"
 languageCode = "en-us"
-title = "A Different Type of SEO Agency - Inspired.digital"
+title = "SEO Services & Niche Site Builders - Inspired.digital"
 theme = "agen-hugo"
 
 #################################### Plugins ##########################################
@@ -118,11 +118,11 @@ theme = "agen-hugo"
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/inspired-digital-logo-removebg-preview.png"
+logo = "images/inspired-2.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Inspired Digital"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
@@ -139,7 +139,7 @@ googleAnalitycsID = "Your ID"
 
   # footer about
   [params.footer.about]
-  about = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae, odit? Sapiente et temporibus qui corporis veritatis ipsa culpa, numquam id."
+  about = "Inspired Digital is more than just SEO, we are a dedicated team of online marketing experts who also specialise in niche site building.  We offer tailored SEO services to supercharge your business in Google"
 
   # contact form
   [params.form]
