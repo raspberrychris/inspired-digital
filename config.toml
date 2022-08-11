@@ -54,44 +54,44 @@ theme = "agen-hugo"
   weight = 3
 
   [[menu.main]]
-  name = "Projects"
-  URL = "projects"
+  name = "Blog"
+  URL = "blog"
   weight = 4
 
-  [[menu.main]]
-  name = "pages"
-  weight = 5
-  hasChildren = true
+  #[[menu.main]]
+  #name = "pages"
+  #weight = 5
+  #hasChildren = true
 
-    [[menu.main]]
-    parent = "pages"
-    name = "Team"
-    URL = "team"
+    #[[menu.main]]
+    #parent = "pages"
+    #name = "Team"
+    #URL = "team"
 
-    [[menu.main]]
-    parent = "pages"
-    name = "Blog"
-    URL = "blog"
+    #[[menu.main]]
+    #parent = "pages"
+    #name = "Blog"
+    #URL = "blog"
 
-    [[menu.main]]
-    parent = "pages"
-    name = "Career"
-    URL = "career"
+    #[[menu.main]]
+    #parent = "pages"
+    #name = "Career"
+    #URL = "career"
 
-    [[menu.main]]
-    parent = "pages"
-    name = "FAQs"
-    URL = "faqs"
+    #[[menu.main]]
+    #parent = "pages"
+    #name = "FAQs"
+    #URL = "faqs"
 
-    [[menu.main]]
-    parent = "pages"
-    name = "Pricing"
-    URL = "pricing"
+    #[[menu.main]]
+    #parent = "pages"
+    #name = "Pricing"
+    #URL = "pricing"
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 6
+  weight = 5
 
   ############################# Footer menu ################################
   [[menu.footer]]
@@ -131,7 +131,7 @@ googleAnalitycsID = "Your ID"
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
 
   ############################# Footer Start ###########################
 
