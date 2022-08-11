@@ -49,7 +49,7 @@ theme = "agen-hugo"
   weight = 2
 
   [[menu.main]]
-  name = "Services"
+  name = "SEO Services"
   URL = "services"
   weight = 3
 
