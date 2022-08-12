@@ -57,19 +57,19 @@ project:
 
 ################################## call to action ###########################
 cta:
-  enable : false
+  enable : true
   title : "Want to get Inspired?"
   bgImage : "images/backgrounds/cta-bg.jpg"
   content : "Are you ready to grow your business? Get in Touch!"
   button :
-    enable : false
+    enable : true
     label : "Let’s talk"
     link : "contact"
 
 
 ############################## pricing ######################################
 pricing:
-  enable : false
+  enable : true
   title : "Our Smart Pricing Table"
   # pricing table comes from 'pricing.yml'
 
