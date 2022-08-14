@@ -6,6 +6,7 @@ bgImage: images/backgrounds/page-title.jpg
 description: this is meta description
 author: Themefisher
 type: post
+draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
