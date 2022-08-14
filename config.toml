@@ -100,19 +100,19 @@ theme = "agen-hugo"
   weight = 2
 
   [[menu.footer]]
-  name = "Service"
+  name = "SEO Services"
   URL = "service"
   weight = 3
 
-  [[menu.footer]]
-  name = "Portfolio"
-  URL = "portfolio"
-  weight = 4
+  #[[menu.footer]]
+  #name = "Portfolio"
+  #URL = "portfolio"
+  #weight = 4
 
   [[menu.footer]]
   name = "Contact"
   URL = "contact"
-  weight = 5
+  weight = 4
 
 ########################### Default parameters ##########################
 [params]
@@ -123,8 +123,8 @@ description = "This is meta description"
 author = "Inspired Digital"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "51.5127998"
+mapLongitude = "-0.3075489"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
