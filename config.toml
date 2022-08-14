@@ -141,10 +141,7 @@ googleAnalitycsID = "Your ID"
 
   # contact form
   [params.form]
-  formAction = "<form
-  action="https://formspree.io/f/maykydqy"
-  method="POST"
->"
+  formAction = "https://formspree.io/f/maykydqy"
 
   # copyright
   [params.copyright]
