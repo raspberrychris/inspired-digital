@@ -58,15 +58,15 @@ theme = "agen-hugo"
   URL = "blog"
   weight = 4
 
-  #[[menu.main]]
-  #name = "pages"
-  #weight = 5
-  #hasChildren = true
+  [[menu.main]]
+  name = "Learn"
+  weight = 5
+  hasChildren = true
 
-    #[[menu.main]]
-    #parent = "pages"
-    #name = "Team"
-    #URL = "team"
+    [[menu.main]]
+    parent = "Learn"
+    name = "Team"
+    URL = "team"
 
     #[[menu.main]]
     #parent = "pages"
@@ -91,7 +91,7 @@ theme = "agen-hugo"
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 5
+  weight = 6
 
   ############################# Footer menu ################################
   [[menu.footer]]
@@ -141,7 +141,7 @@ googleAnalitycsID = "Your ID"
 
   # contact form
   [params.form]
-  formAction = "#"
+  formAction = "https://formspree.io/f/maykydqy"
 
   # copyright
   [params.copyright]
