@@ -90,11 +90,9 @@ theme = "agen-hugo"
     URL = "reporting-dashboards"
 
     [[menu.main]]
-    parent = "service"
+    parent = "SEO Services"
     name = "Keyword Research"
     URL = "keyword-research"
-
-
 
   [[menu.main]]
   name = "Blog"
@@ -108,8 +106,13 @@ theme = "agen-hugo"
 
     [[menu.main]]
     parent = "Learn"
-    name = "Team"
-    URL = "team"
+    name = "Training"
+    URL = "training"
+
+    [[menu.main]]
+    parent = "Learn"
+    name = "Courses"
+    URL = "courses"
 
     #[[menu.main]]
     #parent = "pages"
