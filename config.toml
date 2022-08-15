@@ -52,6 +52,49 @@ theme = "agen-hugo"
   name = "SEO Services"
   URL = "service"
   weight = 3
+  hasChildren = true
+
+    [[menu.main]]
+    parent = "service"
+    name = "SEO Consulting"
+    URL = "seo-consulting"
+
+    [[menu.main]]
+    parent = "service"
+    name = "Technical SEO"
+    URL = "technical-seo"
+
+    [[menu.main]]
+    parent = "service"
+    name = "Link Building"
+    URL = "link-building"
+
+    [[menu.main]]
+    parent = "service"
+    name = "E-commerce SEO"
+    URL = "ecommerce-seo"
+
+    [[menu.main]]
+    parent = "service"
+    name = "Local SEO"
+    URL = "local-seo"
+
+    [[menu.main]]
+    parent = "service"
+    name = "Content"
+    URL = "content"
+
+    [[menu.main]]
+    parent = "service"
+    name = "Reporting"
+    URL = "reporting"
+
+    [[menu.main]]
+    parent = "service"
+    name = "Keyword Research"
+    URL = "keyword-research"
+
+
 
   [[menu.main]]
   name = "Blog"
