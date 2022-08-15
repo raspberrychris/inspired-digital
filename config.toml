@@ -50,19 +50,19 @@ theme = "agen-hugo"
 
   [[menu.main]]
   name = "SEO Services"
-  URL = "seo-services-2"
+  URL = "service"
   weight = 3
   hasChildren = true
 
     [[menu.main]]
     parent = "SEO Services"
     name = "SEO Consulting"
-    URL = "seo-consulting"
+    URL = "service/seo-consulting"
 
     [[menu.main]]
     parent = "SEO Services"
     name = "Technical SEO"
-    URL = "technical-seo"
+    URL = "service/technical-seo"
 
     [[menu.main]]
     parent = "SEO Services"
@@ -92,7 +92,7 @@ theme = "agen-hugo"
     [[menu.main]]
     parent = "SEO Services"
     name = "Keyword Research"
-    URL = "keyword-research"
+    URL = "service/keyword-research"
 
   [[menu.main]]
   name = "Blog"
