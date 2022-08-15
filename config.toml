@@ -67,27 +67,27 @@ theme = "agen-hugo"
     [[menu.main]]
     parent = "SEO Services"
     name = "Link Building"
-    URL = "link-building"
+    URL = "service/link-building"
 
     [[menu.main]]
     parent = "SEO Services"
     name = "E-commerce SEO"
-    URL = "ecommerce-seo"
+    URL = "service/ecommerce-seo"
 
     [[menu.main]]
     parent = "SEO Services"
     name = "Local SEO"
-    URL = "local-seo"
+    URL = "service/local-seo"
 
     [[menu.main]]
     parent = "SEO Services"
     name = "Content"
-    URL = "content"
+    URL = "service/content"
 
     [[menu.main]]
     parent = "SEO Services"
     name = "Reporting and Dashboards"
-    URL = "reporting-dashboards"
+    URL = "service/reporting-dashboards"
 
     [[menu.main]]
     parent = "SEO Services"
