@@ -50,7 +50,7 @@ theme = "agen-hugo"
 
   [[menu.main]]
   name = "SEO Services"
-  URL = "service"
+  URL = "seo-services-2"
   weight = 3
   hasChildren = true
 
