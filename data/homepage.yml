@@ -11,9 +11,9 @@ service:
   # service item comes from 'service.yml'
 ############################ features #################################
 feature:
-  enable : false
+  enable : true
   image : "images/feature.jpg"
-  title : "We know What Bait to Use"
+  title : ""
   featureItem:
     # feature item
     - title : "SEO"

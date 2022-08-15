@@ -55,39 +55,39 @@ theme = "agen-hugo"
   hasChildren = true
 
     [[menu.main]]
-    parent = "service"
+    parent = "SEO Services"
     name = "SEO Consulting"
     URL = "seo-consulting"
 
     [[menu.main]]
-    parent = "service"
+    parent = "SEO Services"
     name = "Technical SEO"
     URL = "technical-seo"
 
     [[menu.main]]
-    parent = "service"
+    parent = "SEO Services"
     name = "Link Building"
     URL = "link-building"
 
     [[menu.main]]
-    parent = "service"
+    parent = "SEO Services"
     name = "E-commerce SEO"
     URL = "ecommerce-seo"
 
     [[menu.main]]
-    parent = "service"
+    parent = "SEO Services"
     name = "Local SEO"
     URL = "local-seo"
 
     [[menu.main]]
-    parent = "service"
+    parent = "SEO Services"
     name = "Content"
     URL = "content"
 
     [[menu.main]]
-    parent = "service"
-    name = "Reporting"
-    URL = "reporting"
+    parent = "SEO Services"
+    name = "Reporting and Dashboards"
+    URL = "reporting-dashboards"
 
     [[menu.main]]
     parent = "service"
