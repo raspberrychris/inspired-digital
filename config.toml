@@ -87,7 +87,7 @@ theme = "agen-hugo"
     [[menu.main]]
     parent = "SEO Services"
     name = "Reporting and Dashboards"
-    URL = "service/reporting-dashboards"
+    URL = "service/reporting-and-dashboards"
 
     [[menu.main]]
     parent = "SEO Services"
