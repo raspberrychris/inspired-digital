@@ -96,7 +96,7 @@ theme = "agen-hugo"
 
   [[menu.main]]
   name = "Blog"
-  URL = "Blog"
+  URL = "blog"
   weight = 4
 
   [[menu.main]]
