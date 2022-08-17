@@ -77,5 +77,5 @@ pricing:
 ############################## blog ######################################
 blog:
   enable : true
-  title : "blog"
+  title : "Blog"
   # blog content comes from `content/blog` folder
