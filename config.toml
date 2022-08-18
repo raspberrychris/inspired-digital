@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseURL = "https://inspired.digital"
+baseURL = "https://inspired.digital/"
 languageCode = "en-us"
 title = "SEO Services & Niche Site Builders - Inspired.digital"
 theme = "agen-hugo"
