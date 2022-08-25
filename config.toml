@@ -107,7 +107,7 @@ theme = "agen-hugo"
     [[menu.main]]
     parent = "Learn"
     name = "Slack Community"
-    URL = "https://inspireddigitalgroup.slack.com/"
+    URL = "https://join.slack.com/t/inspireddigitalgroup/signup"
 
     [[menu.main]]
     parent = "Learn"
