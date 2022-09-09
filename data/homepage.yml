@@ -18,24 +18,24 @@ feature:
   title : ""
   featureItem:
     # feature item
-    - title : "SEO"
+    - title : "SEO Consultation"
       icon : "ti-vector" # themify icon pack https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+      content : "We create tailored SEO services for your exact business needs to enable your website to grow."
 
     # feature item
-    - title : "Responsive Layout"
+    - title : "Content Creation"
       icon : "ti-layout" # themify icon pack https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+      content : "If you require quality content for your website then let us do the hard work so you don't have to."
 
     # feature item
-    - title : "Digital Solutions"
+    - title : "Learn SEO"
       icon : "ti-headphone-alt" # themify icon pack https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+      content : "If you are looking to learn SEO we have created a number of specialised courses which will enable to learn SEO at your own pace"
 
     # feature item
-    - title : "Bootstrap 4x"
+    - title : "Niche Site"
       icon : "ti-ruler-pencil" # themify icon pack https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+      content : ""
 
 
 ############################# promo video #################################
