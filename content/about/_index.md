@@ -1,5 +1,5 @@
 ---
-title: About
+title: About us
 date: 2022-07-08T10:19:26Z
 draft: false
 bgImage: /images/backgrounds/background2.jpg
