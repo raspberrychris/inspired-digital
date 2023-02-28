@@ -106,8 +106,8 @@ theme = "agen-hugo"
 
     [[menu.main]]
     parent = "Learn"
-    name = "Slack Community"
-    URL = "https://join.slack.com/t/inspireddigitalgroup/signup"
+    name = ""
+    URL = ""
 
     [[menu.main]]
     parent = "Learn"
@@ -197,7 +197,7 @@ googleAnalitycsID = "Your ID"
 
   # copyright
   [params.copyright]
-  copyright = "Copyright &copy; 2022 [Inspired.digital](https://inspired.digital)"
+  copyright = "Copyright &copy; 2023 [Inspired.digital](https://inspired.digital)"
 
   ######################### Social site ##############################
   [[params.social]]
