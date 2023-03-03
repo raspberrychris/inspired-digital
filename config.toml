@@ -76,7 +76,7 @@ googleAnalitycsID = "Your ID"
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
 
   # Navigation button
   [params.navBtn]
@@ -86,8 +86,8 @@ googleAnalitycsID = "Your ID"
 
   # Banner
   [params.banner]
-  title = "Want to do SEO? <br> Get Inspired"
-  content = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum <br> dolore eu fugiat nulla pariatur."
+  title = "Want to do SEO? <br> Get Inspired."
+  content = "We provide an affordable SEO platform that allows you to take control of your organic rankings <br> and we're also there to help if you need us."
   bgImage = "images/hero-area/banner-bg.svg"
   image = "images/hero-area/banner-img.png"
   btnText = "explore us"
