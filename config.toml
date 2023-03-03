@@ -1,10 +1,9 @@
-################################### Default Configuration ############################
-baseURL = "https://inspired.digital/"
+baseURL = "https://inspired.digital"
 languageCode = "en-us"
-title = "SEO Services & Niche Site Builders - Inspired.digital"
-theme = "agen-hugo"
+title = "Inspired Digital"
+theme = "dtox"
 
-#################################### Plugins ##########################################
+# Plugins
 [params.plugins]
 
   # CSS Plugins
@@ -15,9 +14,9 @@ theme = "agen-hugo"
   [[params.plugins.css]]
   URL = "plugins/themify-icons/themify-icons.css"
   [[params.plugins.css]]
-  URL = "plugins/venobox/venobox.css"
+  URL = "plugins/Venobox/venobox.css"
   [[params.plugins.css]]
-  URL = "plugins/card-slider/css/style.css"
+  URL = "plugins/aos/aos.css"
 
   # JS Plugins
   [[params.plugins.js]]
@@ -27,191 +26,96 @@ theme = "agen-hugo"
   [[params.plugins.js]]
   URL = "plugins/slick/slick.min.js"
   [[params.plugins.js]]
-  URL = "plugins/venobox/venobox.min.js"
+  URL = "plugins/aos/aos.js"
   [[params.plugins.js]]
-  URL = "plugins/shuffle/shuffle.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/counto/apear.js"
-  [[params.plugins.js]]
-  URL = "plugins/counto/counTo.js"
-  [[params.plugins.js]]
-  URL = "plugins/card-slider/js/card-slider-min.js"
-  [[params.plugins.js]]
-  URL = "plugins/google-map/gmap.js"
+  URL = "plugins/Venobox/venobox.min.js"
 
 
-###################################### Navigation ######################################
+# Menu
 [menu]
-
   [[menu.main]]
-  name = "About"
-  URL = "about"
+  name = "Feature"
+  URL = "#feature"
   weight = 2
 
   [[menu.main]]
-  name = "SEO Services"
-  URL = "service"
+  name = "About"
+  URL = "about/"
   weight = 3
-  hasChildren = true
-
-    [[menu.main]]
-    parent = "SEO Services"
-    name = "SEO Consulting"
-    URL = "service/seo-consulting"
-
-    [[menu.main]]
-    parent = "SEO Services"
-    name = "Technical SEO"
-    URL = "service/technical-seo"
-
-    [[menu.main]]
-    parent = "SEO Services"
-    name = "Link Building"
-    URL = "service/link-building"
-
-    [[menu.main]]
-    parent = "SEO Services"
-    name = "E-commerce SEO"
-    URL = "service/ecommerce-seo"
-
-    [[menu.main]]
-    parent = "SEO Services"
-    name = "Local SEO"
-    URL = "service/local-seo"
-
-    [[menu.main]]
-    parent = "SEO Services"
-    name = "Content"
-    URL = "service/content"
-
-    [[menu.main]]
-    parent = "SEO Services"
-    name = "Reporting and Dashboards"
-    URL = "service/reporting-and-dashboards"
-
-    [[menu.main]]
-    parent = "SEO Services"
-    name = "Keyword Research"
-    URL = "service/keyword-research"
-
+  
   [[menu.main]]
-  name = "Blog"
-  URL = "blog"
+  name = "Service"
+  URL = "service/"
   weight = 4
 
   [[menu.main]]
-  name = "Learn"
+  name = "Team"
+  URL = "#team"
   weight = 5
-  hasChildren = true
-
-    [[menu.main]]
-    parent = "Learn"
-    name = ""
-    URL = ""
-
-    [[menu.main]]
-    parent = "Learn"
-    name = "Training"
-    URL = "training"
-
-    [[menu.main]]
-    parent = "Learn"
-    name = "Courses"
-    URL = "courses"
-
-    #[[menu.main]]
-    #parent = "pages"
-    #name = "Blog"
-    #URL = "blog"
-
-    #[[menu.main]]
-    #parent = "pages"
-    #name = "Career"
-    #URL = "career"
-
-    #[[menu.main]]
-    #parent = "pages"
-    #name = "FAQs"
-    #URL = "faqs"
-
-    #[[menu.main]]
-    #parent = "pages"
-    #name = "Pricing"
-    #URL = "pricing"
-
+  
   [[menu.main]]
-  name = "Contact"
-  URL = "contact"
+  name = "Pricing"
+  URL = "#pricing"
   weight = 6
 
-  ############################# Footer menu ################################
-  [[menu.footer]]
-  name = "About"
-  URL = "about"
-  weight = 2
-
-  [[menu.footer]]
-  name = "SEO Services"
-  URL = "service"
-  weight = 3
-
-  #[[menu.footer]]
-  #name = "Portfolio"
-  #URL = "portfolio"
-  #weight = 4
-
-  [[menu.footer]]
+  [[menu.main]]
   name = "Contact"
-  URL = "contact"
-  weight = 4
+  URL = "contact/"
+  weight = 7
 
-########################### Default parameters ##########################
+
+
 [params]
-logo = "images/inspired-logo2.png"
+logo = "images/logo.png"
 home = "Home"
-# Meta data AIzaSyBfiNRI21OWZnNKd1aRzjN3-5aUxEyZW5o
-
+# Meta data
 description = "This is meta description"
-author = "Inspired Digital"
-# google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBfiNRI21OWZnNKd1aRzjN3-5aUxEyZW5o&libraries=places"
-mapLatitude = "51.5127998"
-mapLongitude = "-0.3075489"
-mapMarker = "images/marker.png"
+author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 
   # Preloader
   [params.preloader]
-  enable = false
+  enable = true
 
-  ############################# Footer Start ###########################
+  # Navigation button
+  [params.navBtn]
+  enable = true
+  btnText = "Try Free"
+  URL = "#"
 
-  # footer about
-  [params.footer.about]
-  about = "Inspired Digital is more than just SEO, we are a dedicated team of online marketing experts who also specialise in niche site building.  We offer tailored SEO services to supercharge your business in Google"
+  # Banner
+  [params.banner]
+  title = "Take Control of your <br> Project and Team"
+  content = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum <br> dolore eu fugiat nulla pariatur."
+  bgImage = "images/hero-area/banner-bg.svg"
+  image = "images/hero-area/banner-img.png"
+  btnText = "explore us"
+  URL = "#"
+    [params.banner.bgShape]
+    enable = true
 
-  # contact form
-  [params.form]
-  formAction = "https://formspree.io/f/maykydqy"
 
-  # copyright
-  [params.copyright]
-  copyright = "Copyright &copy; 2023 [Inspired.digital](https://inspired.digital)"
+  # footer
+  [params.footer]
+  bgImage = "images/backgrounds/footer-bg.svg"
+  
+    [[params.footer.socialIcon]]
+    icon = "ti-facebook"
+    color = "facebook"
+    URL = "#"
 
-  ######################### Social site ##############################
-  [[params.social]]
-  icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+    [[params.footer.socialIcon]]
+    icon = "ti-twitter-alt"
+    color = "twitter"
+    URL = "#"
 
-  [[params.social]]
-  icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+    [[params.footer.socialIcon]]
+    icon = "ti-linkedin"
+    color = "linkedin"
+    URL = "#"
 
-  [[params.social]]
-  icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+    [[params.footer.socialIcon]]
+    icon = "ti-github"
+    color = "black"
+    URL = "#"

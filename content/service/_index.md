@@ -1,7 +1,6 @@
 ---
-title: "SEO Services"
-date: 2019-08-01T16:19:26+06:00
-draft: false
-bgImage: "/images/backgrounds/background2.jpg"
-description: "this is meta description"
+title: "Service"
+date: 2019-02-10T08:35:48+06:00
+description : "this is meta description"
 ---
+

@@ -1,0 +1,43 @@
+############################### services ####################################
+services:
+  # service item
+  - title : "SEO Services"
+    icon : "ti-palette" # themify icon pack https://themify.me/themify-icons
+    content : "Whether its SEO Reporting, SEO Auditing or Technical SEO we are ready to help your business achieve its targets in SEO."
+
+  # service item
+  - title : "Content"
+    icon : "ti-dashboard" # themify icon pack https://themify.me/themify-icons
+    content : "Get fantastic quality content that is SEO targeted for your business and grow it like never before."
+
+  # service item
+  - title : "Link Acquisition"
+    icon : "ti-announcement" # themify icon pack https://themify.me/themify-icons
+    content : "Links are a fundamental part of SEO and we can help you with your link acquition and outreach campaigns."
+
+  # service item
+  - title : "Keyword Research"
+    icon : "ti-game" # themify icon pack https://themify.me/themify-icons
+    content : "Keyword research is a fundamentatl part of SEO and we have developed our own way of finding the perfect topics that enables you to make the most gains."
+
+  # service item
+  - title : "International SEO"
+    icon : "ti-crown" # themify icon pack https://themify.me/themify-icons
+    content : "If you have an international website we offer a host of international SEO services to help increase your international organic presence."
+
+  # service item
+  - title : "Dashboards & Reporting"
+    icon : "ti-bar-chart" # themify icon pack https://themify.me/themify-icons
+    content : "Reporting on your progress is essential to any SEO campaign.  At Inspired we make it easy and provide you with the best dashboards and reporting for your site."
+
+
+############################## feature ####################################
+feature:
+  enable: true
+  # feature content comes from 'hompage.yml'
+
+
+############################## call to action ############################
+cta:
+  enable: true
+  # cta content comes from 'hompage.yml'
