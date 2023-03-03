@@ -5,24 +5,33 @@ feature:
   description : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident"
   featureItem:
     # feature item
-    - title : "Awesome Design"
+    - title : "Track Rankings"
       icon : "ti-ruler-pencil"
-      content : "Consectetur adipiscing elit donec tempus pellentesque dui."
+      content : "Track your keywords with our rank tracking tool"
       
     # feature item
-    - title : "Easy Customize"
+    - title : "Track Backlinks"
       icon : "ti-layout-cta-left"
-      content : "Consectetur adipiscing elit donec tempus pellentesque dui."
+      content : "Monitor your Backlinks within our SEO platform"
       
     # feature item
-    - title : "Bug free Code"
+    - title : "Optimize your Google Business Profile"
       icon : "ti-split-v-alt"
-      content : "Consectetur adipiscing elit donec tempus pellentesque dui."
+      content : "Optimize your Google Business Profile with our tool"
       
     # feature item
-    - title : "Organized Layouts"
+    - title : "Do Keyword Research"
       icon : "ti-layers-alt"
-      content : "Consectetur adipiscing elit donec tempus pellentesque dui."
+      content : "Find the keywords that will make a difference for your business in the SERPs"
+
+         # feature item
+    - title : "Schedule SEO Reports"
+      icon : "ti-layers-alt"
+      content : "Create reports from templates that has your most important SEO updates in"
+
+    - title : "Do Competitor Research"
+      icon : "ti-layers-alt"
+      content : "Spy on your competitors and dissect their stratgies"
 
 # Marketing section
 marketing:
