@@ -105,23 +105,23 @@ pricing:
   description : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu <br> fugiat nulla pariatur. Excepteur sint occaecat "
   table:
     # pricing table
-    - title : "Free"
-      value : "00"
-      content : "Far far away, behind the wordmountains, far from the countries Vokalia and"
+    - title : "DIY"
+      value : "$180"
+      content : "Everything you need to get started in SEO"
       btnText : "Get Started"
       URL : "#"
       
     # pricing table
     - title : "Standard"
-      value : "75"
-      content : "Far far away, behind the wordmountains, far from the countries Vokalia and"
+      value : "$350"
+      content : "Everything in DIY + 3 hours consultation per month"
       btnText : "Get Started"
       URL : "#"
       
     # pricing table
     - title : "Premium"
-      value : "99"
-      content : "Far far away, behind the wordmountains, far from the countries Vokalia and"
+      value : "On Request"
+      content : "For those who want to skyrocket their SEO"
       btnText : "Get Started"
       URL : "#"
 
@@ -161,6 +161,6 @@ clientSlider:
 
 # newsletter subscription form
 newsletter:
-  enable : true
+  enable : false
   title : "Subscribe to our newsletter"
   description : "Receive updates, news and deals"
