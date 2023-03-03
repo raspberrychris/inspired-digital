@@ -102,25 +102,25 @@ team:
 pricing:
   enable  : true
   title : "Our Pricing"
-  description : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu <br> fugiat nulla pariatur. Excepteur sint occaecat "
+  description : "SEO consultants and agencies are often expensive. We get it. <br> That's why we made an affordable SEO service that gets you results"
   table:
     # pricing table
     - title : "DIY"
-      value : "$180"
+      value : "180"
       content : "Everything you need to get started in SEO"
       btnText : "Get Started"
       URL : "#"
       
     # pricing table
     - title : "Standard"
-      value : "$350"
+      value : "350"
       content : "Everything in DIY + 3 hours consultation per month"
       btnText : "Get Started"
       URL : "#"
       
     # pricing table
     - title : "Premium"
-      value : "On Request"
+      value : "Ask"
       content : "For those who want to skyrocket their SEO"
       btnText : "Get Started"
       URL : "#"
