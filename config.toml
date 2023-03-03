@@ -66,11 +66,11 @@ theme = "dtox"
 
 
 [params]
-logo = "images/inspired-32.png"
+logo = "images/inspired-logo3.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Inspired Digital"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 
@@ -81,12 +81,12 @@ googleAnalitycsID = "Your ID"
   # Navigation button
   [params.navBtn]
   enable = true
-  btnText = "Try Free"
+  btnText = "Contact"
   URL = "#"
 
   # Banner
   [params.banner]
-  title = "Take Control of your <br> Project and Team"
+  title = "Want to do SEO? <br> Get Inspired"
   content = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum <br> dolore eu fugiat nulla pariatur."
   bgImage = "images/hero-area/banner-bg.svg"
   image = "images/hero-area/banner-img.png"
