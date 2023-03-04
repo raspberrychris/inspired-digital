@@ -116,7 +116,9 @@ pricing:
     # pricing table
     - title : "Bronze"
       value : "180"
-      content : "Everything you need to get started in SEO <br> - Reporting <br> - Keyword Research"
+      content : "Everything you need to get started in SEO.
+       - Reporting
+       - Keyword Research"
       btnText : "Subscribe"
       URL : "https://dashboard.inspired.digital/register"
       
@@ -124,14 +126,14 @@ pricing:
     - title : "Silver"
       value : "400"
       content : "Everything in Bronze + 3 hours SEO consultation per month"
-      btnText : "Get Started"
+      btnText : "Subscribe"
       URL : "https://dashboard.inspired.digital/register"
       
     # pricing table
     - title : "Gold"
       value : "Ask"
       content : "For those who want to skyrocket their SEO"
-      btnText : "Get Started"
+      btnText : "Learn more"
       URL : "https://inspired.digital/contact"
 
 # client logo slider
