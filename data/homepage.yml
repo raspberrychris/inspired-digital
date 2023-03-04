@@ -39,24 +39,24 @@ marketing:
   image: "images/marketing/marketing.png"
   bgImage : "images/backgrounds/seo-bg.svg"
   title : "A complete SEO toolkit at your fingertips"
-  content : "We've put together everything you need to get started in SEO and get your site ranking.<br>"
+  content : "We've put together everything you need to get started in SEO and get your site ranking.<br> The Inspire hub integrates with Google Analytics, Google Business Profile, Google Search Console."
 
 # services
 service:
   enable : true
-  title : "Powerful Layout From Top To Bottom"
-  content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+  title : "Get expert SEO consultation when you need it"
+  content : "Get access to some of the best SEO consultants around, but only pay for the time you need with them."
   serviceList:
     # service list
-    - title : "Responsive on any device"
+    - title : "Helpful advice"
       icon : "ti-layout-tab-window"
       
     # service list
-    - title : "Very easy to customize"
+    - title : "Remote meetings"
       icon : "ti-layout-placeholder"
       
     # service list
-    - title : "Effective support"
+    - title : "All in one"
       icon : "ti-support"
 
   # service image
