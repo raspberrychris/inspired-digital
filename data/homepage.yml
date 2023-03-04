@@ -120,20 +120,20 @@ pricing:
        - Reporting
        - Keyword Research"
       btnText : "Subscribe"
-      URL : "https://dashboard.inspired.digital/register"
+      URL : "https://dashboard.inspired.digital/register?c=USD&l=month"
       
     # pricing table
     - title : "Silver"
-      value : "400"
-      content : "Everything in Bronze + 3 hours SEO consultation per month"
+      value : "481.39"
+      content : "Everything in Bronze + 3 hours expert SEO consultation per month"
       btnText : "Subscribe"
-      URL : "https://dashboard.inspired.digital/register"
+      URL : "https://dashboard.inspired.digital/register?addon=1&c=USD&l=month"
       
     # pricing table
     - title : "Gold"
       value : "Ask"
       content : "For those who want to skyrocket their SEO"
-      btnText : "Learn more"
+      btnText : "Contact"
       URL : "https://inspired.digital/contact"
 
 # client logo slider
