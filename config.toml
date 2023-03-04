@@ -77,7 +77,7 @@ googleAnalitycsID = "Your ID"
   [params.navBtn]
   enable = true
   btnText = "Let's Go! 🚀"
-  URL = "#"
+  URL = "https://dashboard.inspired.digital/register"
 
   # Banner
   [params.banner]
