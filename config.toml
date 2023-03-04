@@ -81,7 +81,7 @@ googleAnalitycsID = "Your ID"
   # Navigation button
   [params.navBtn]
   enable = true
-  btnText = "Contact"
+  btnText = "Let's Go! 🚀"
   URL = "#"
 
   # Banner
