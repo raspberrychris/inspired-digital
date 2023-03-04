@@ -109,3 +109,7 @@ googleAnalitycsID = "Your ID"
     icon = "ti-linkedin"
     color = "linkedin"
     URL = "#"
+
+# copyright taken from agen theme
+  [params.copyright]
+  copyright = "Copyright &copy; 2023 [Inspired.digital](https://inspired.digital)"
