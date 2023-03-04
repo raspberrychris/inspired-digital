@@ -1,11 +1,11 @@
 # Features 
 feature:
   enable : true
-  title : "Awesome Features"
+  title : "Features"
   description : "Our SEO platform does it all, and if you get stuck, we're here to help."
   featureItem:
     # feature item
-    - title : "Track Rankings"
+    - title : "Track Keyword Rankings"
       icon : "ti-ruler-pencil"
       content : "Track your keywords with our rank tracking tool"
       
@@ -39,7 +39,7 @@ marketing:
   image: "images/marketing/marketing.png"
   bgImage : "images/backgrounds/seo-bg.svg"
   title : "A complete SEO toolkit at your fingertips"
-  content : "We've put together everything you need to get started in SEO and get your site ranking.<br> There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+  content : "We've put together everything you need to get started in SEO and get your site ranking.<br>"
 
 # services
 service:
@@ -66,7 +66,7 @@ service:
 
 # team
 team:
-  enable : true
+  enable : false
   title : "Our Team"
   description : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu<br> fugiat nulla pariatur. Excepteur sint occaecat"
   bgImage : "images/backgrounds/team-bg.svg"
@@ -136,7 +136,7 @@ pricing:
 
 # client logo slider
 clientSlider:
-  enable : true
+  enable : false
   list:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "#"
