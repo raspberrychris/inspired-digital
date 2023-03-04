@@ -82,12 +82,12 @@
       <div class="row align-items-center">
         <div class="col-md-3 col-6">
           <h4 class="text-white mb-5">About</h4>
-          Inspired Digital is a SEO platform where you can get started with SEO and get your website ranking. We also offer affordable SEO services that don't break the bank.
+          <p class="text-light mb-0">Inspired Digital is a SEO platform where you can get started with SEO and get your website ranking. We also offer affordable SEO services that don't break the bank.</p>
           <p class="text-light">{{ .Site.Params.footer.about.about | markdownify }} </p>
         </div>
         <div class="col-md-3 col-6">
           <h4 class="text-white mb-5">Company</h4>
-          Inspired Digital is a SEO platform that allows you to do SEO yourself. If you need expert SEO support you can call upon our experts as well, but we don't include that as standard.
+          <p class="text-light mb-0">Inspired Digital is a SEO platform that allows you to do SEO yourself. If you need expert SEO support you can call upon our experts as well, but we don't include that as standard.</p>
           <ul class="list-unstyled">
             {{ range .Site.Menus.footer }}
             <li><a href="{{ .URL | absURL }}" class="text-light d-block mb-3">{{ .Name }}</a></li>
@@ -98,8 +98,8 @@
           <div class="bg-white p-4">
             <h3>Get in touch</h3>
             <form action="https://formspree.io/f/maykydqy"method="POST">
-              <input type="text" id="name" name="name" class="form-control mb-4 px-0" placeholder="Full name">
-              <input type="text" id="name" name="name" class="form-control mb-4 px-0" placeholder="Email address">
+              <input type="text" id="name" name="name" class="form-control mb-4 px-0" placeholder=" Full name">
+              <input type="text" id="name" name="name" class="form-control mb-4 px-0" placeholder=" Email address">
               <textarea name="message" id="message" class="form-control mb-4 px-0" placeholder="Message"></textarea>
               <button class="btn btn-primary" type="submit">Send</button>
             </form>
