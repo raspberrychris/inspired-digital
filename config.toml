@@ -34,7 +34,7 @@ theme = "dtox"
 # Menu
 [menu]
   [[menu.main]]
-  name = "Feature"
+  name = "Features"
   URL = "#feature"
   weight = 2
 
@@ -44,7 +44,7 @@ theme = "dtox"
   weight = 3
   
   [[menu.main]]
-  name = "Service"
+  name = "Services"
   URL = "service/"
   weight = 4
 
