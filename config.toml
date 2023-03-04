@@ -40,12 +40,12 @@ theme = "dtox"
 
   [[menu.main]]
   name = "About"
-  URL = "about/"
+  URL = "about"
   weight = 3
   
   [[menu.main]]
   name = "Services"
-  URL = "services/"
+  URL = "services"
   weight = 4
   
   [[menu.main]]
@@ -55,7 +55,7 @@ theme = "dtox"
 
   [[menu.main]]
   name = "Contact"
-  URL = "contact/"
+  URL = "contact"
   weight = 6
 
 
