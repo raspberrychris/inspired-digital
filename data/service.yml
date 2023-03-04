@@ -1,7 +1,7 @@
 # services
 service:
   enable : true
-  title : "Easy to used"
+  title : "Affordable SEO Services and all in one tool set"
   description : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident"
   bgImage : "images/backgrounds/service-page.svg"
   serviceItem :
