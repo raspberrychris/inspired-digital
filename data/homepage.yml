@@ -116,7 +116,7 @@ pricing:
     # pricing table
     - title : "Bronze"
       value : "180"
-      content : "Everything you need to get started in SEO"
+      content : "Everything you need to get started in SEO <br> - Reporting <br> - Keyword Research"
       btnText : "Subscribe"
       URL : "https://dashboard.inspired.digital/register"
       
