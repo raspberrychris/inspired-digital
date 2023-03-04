@@ -1,6 +1,6 @@
 baseURL = "https://inspired.digital"
 languageCode = "en-us"
-title = "Inspired Digital"
+title = "Inspired Digital - Affordable SEO Services"
 theme = "dtox"
 
 # Plugins
@@ -113,9 +113,4 @@ googleAnalitycsID = "Your ID"
     [[params.footer.socialIcon]]
     icon = "ti-linkedin"
     color = "linkedin"
-    URL = "#"
-
-    [[params.footer.socialIcon]]
-    icon = "ti-github"
-    color = "black"
     URL = "#"
