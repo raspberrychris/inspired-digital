@@ -1,12 +1,10 @@
 # contact information
 contact:
   title : "Contact"
-  formAction : "#" # form works with formspree.io
-  content : "If you'll like to know more about our experience designing and delivering cloud solutions, or
-            get advice on your own technology challenges get in touch. With dedicated engineers on-hand 24/7, we’re set
-            up to become an extension of your team."
-  phone : "+442081446356"
-  email : "info@altostack.io"
+  formAction : "https://formspree.io/f/maykydqy" # form works with formspree.io
+  content : "If you want to learn more about what we do, or have any questions, get in touch using the form below."
+  phone : "+TBC"
+  email : "info@inspired.digital"
   address : "71 Shelton Street<br>London WC2H 9JQ England"
 
 # bullet point
