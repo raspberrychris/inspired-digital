@@ -2,7 +2,7 @@
 feature:
   enable : true
   title : "Features"
-  description : "Our SEO platform does it all, and if you get stuck, we're here to help."
+  description : "Our SEO platform does it all, and if you get stuck, we're here to help. {{% pricingtable /%}}"
   featureItem:
     # feature item
     - title : "Track Keyword Rankings"
