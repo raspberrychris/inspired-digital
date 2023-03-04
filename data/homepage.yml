@@ -122,17 +122,17 @@ pricing:
       
     # pricing table
     - title : "Silver"
-      value : "350"
-      content : "Everything in DIY + 3 hours consultation per month"
+      value : "400"
+      content : "Everything in Bronze + 3 hours SEO consultation per month"
       btnText : "Get Started"
-      URL : "#"
+      URL : "https://dashboard.inspired.digital/register"
       
     # pricing table
     - title : "Gold"
       value : "Ask"
       content : "For those who want to skyrocket their SEO"
       btnText : "Get Started"
-      URL : "#"
+      URL : "https://inspired.digital/contact"
 
 # client logo slider
 clientSlider:
