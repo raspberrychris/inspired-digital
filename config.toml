@@ -45,23 +45,18 @@ theme = "dtox"
   
   [[menu.main]]
   name = "Services"
-  URL = "service/"
+  URL = "services/"
   weight = 4
-
-  [[menu.main]]
-  name = "Team"
-  URL = "#team"
-  weight = 5
   
   [[menu.main]]
   name = "Pricing"
   URL = "#pricing"
-  weight = 6
+  weight = 5
 
   [[menu.main]]
   name = "Contact"
   URL = "contact/"
-  weight = 7
+  weight = 6
 
 
 
