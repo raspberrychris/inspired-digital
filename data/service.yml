@@ -2,41 +2,41 @@
 service:
   enable : true
   title : "Affordable SEO Services and all in one tool set"
-  description : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident"
+  description : "SEO services can add up and most agencies or consultants will want to charge you for all of it upfront. We believe that businesses come in all different shapes and sizes so we provide a platform that you can use to grown and monitor your SEO yourself. If you need us we are always around for SEO consultation services, but it makes the SEO costs more efficient for your business."
   bgImage : "images/backgrounds/service-page.svg"
   serviceItem :
     # service item
-    - title : "Awesome design"
+    - title : "All in one SEO software for small to medium sized businesses"
       icon : "ti-layers-alt"
       iconColor : "blue" # only 3 color is available. ( blue, green, orange )
-      content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.<br><br>There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+      content : "Improve your SEO with our SEO suite.<br><br>It has everything you need to get started including Keyword rank tracking, scheduled reporting, Google Analytics, Google Search Console integration and much more."
       
     # service item
-    - title : "Easy to customize"
+    - title : "Simple Monthly or Yearly contracts"
       icon : "ti-layers-alt"
       iconColor : "green"
-      content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.<br><br>There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+      content : "Subscribe to the Inspired hub monthly or annually<br><br>The decision is yours."
       
     # service item
-    - title : "24 Hours Open"
+    - title : "Works in the U.S. or U.K"
       icon : "ti-layers-alt"
       iconColor : "orange"
-      content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.<br><br>There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+      content : "We are UK based limited company but price in dollars.<br><br>"
       
     # service item
-    - title : "Maximum Support"
+    - title : "Top SEO Consultation when you need it"
       icon : "ti-layers-alt"
       iconColor : "blue"
-      content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.<br><br>There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+      content : "We work with SEO consultants that will advise you on your campaign (Silver package upwards)<br><br>This can help you skyrocket your SEO campaign"
       
     # service item
-    - title : "Lower Budget"
+    - title : "Lots of SEO add ons"
       icon : "ti-layers-alt"
       iconColor : "green"
-      content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.<br><br>There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+      content : "We don't charge for everything upfront, as we don't believe there is a one size fits all approach for SEO.<br><br>If you need more services you can do this by adding them to your account as add-ons. Examples of addons include Content, SEO consultation with an expert etc."
       
     # service item
-    - title : "Great service"
+    - title : "DIY SEO"
       icon : "ti-layers-alt"
       iconColor : "green"
-      content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.<br><br>There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+      content : "If you want to get started in SEO but just want the tools and none of the hassel of working with an agency or consultant then you can just get on with the job using our tools<br><br>This helps you save costs to maximize them for your own business."
