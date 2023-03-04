@@ -85,8 +85,8 @@ googleAnalitycsID = "Your ID"
   content = "We provide an affordable SEO platform that allows you to take control of your organic rankings <br> and we're also there to help if you need us."
   bgImage = "images/hero-area/banner-bg.svg"
   image = "images/hero-area/banner-img.png"
-  btnText = "explore us"
-  URL = "#"
+  btnText = "Explore Services"
+  URL = "https://inspired.digital/service/"
     [params.banner.bgShape]
     enable = true
 
