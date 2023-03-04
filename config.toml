@@ -45,7 +45,7 @@ theme = "dtox"
   
   [[menu.main]]
   name = "Services"
-  URL = "services"
+  URL = "service"
   weight = 4
   
   [[menu.main]]
