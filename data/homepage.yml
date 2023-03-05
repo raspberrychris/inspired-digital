@@ -111,7 +111,7 @@ team:
 pricing:
   enable  : true
   title : "Flexible Pricing"
-  description : "SEO consultants and agencies are often expensive. We get it. <br> That's why we made an affordable SEO service that gets you results"
+  description : "SEO consultants and agencies are often expensive. We get it. <br> That's why we made an affordable SEO service that gets you results. If you are on a budget it's best to start with the Self starter plan, if need some SEO guidance it's worth going with our Growth plan."
   table:
     # pricing table
     - title : "Self Service"
