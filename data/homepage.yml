@@ -117,21 +117,21 @@ pricing:
     - title : "Self Service"
       value : "180.52"
       content : "Everything you need to get started in SEO. That includes Competitor analysis, Keyword Research, Scheduled Reporting, Intergration with GA, GA and GBP and much more!"
-      btnText : "Subscribe"
+      btnText : "Subscribe  ✅ "
       URL : "https://dashboard.inspired.digital/register?c=USD&l=month"
       
     # pricing table
     - title : "Growth"
       value : "481.39"
       content : "Everything in self service and three hours expert SEO consultation per month"
-      btnText : "Subscribe"
+      btnText : "Subscribe  ✅ "
       URL : "https://dashboard.inspired.digital/register?addon=1&c=USD&l=month"
       
     # pricing table
     - title : "Platinum"
       value : "Ask"
       content : "For those who want to skyrocket their SEO"
-      btnText : "Contact"
+      btnText : "Contact  ✅ "
       URL : "https://inspired.digital/contact"
 
 # client logo slider
