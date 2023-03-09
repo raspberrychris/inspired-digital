@@ -33,6 +33,14 @@ feature:
       icon : "ti-layers-alt"
       content : "Spy on your competitors and dissect their stratgies"
 
+    - title : "Order Content"
+      icon : "ti-layers-alt"
+      content : "Need content? Order it directly through the platform"
+
+    - title : "24/7 Chat Support"
+      icon : "ti-layers-alt"
+      content : "24/7 Chat Support to help you get the most out of the platform"
+
 # Marketing section
 marketing:
   enable : true
@@ -116,7 +124,7 @@ pricing:
     # pricing table
     - title : "Self Service 🧰"
       value : "180.52"
-      content : "Everything you need to get started in SEO. That includes Competitor analysis, Keyword Research, Scheduled Reporting, Intergration with GA, GA and GBP and much more!"
+      content : "Everything you need to get started in SEO. That includes Competitor analysis, Keyword Research, Scheduled Reporting, Intergration with Google Analytics, Google Search Console, Google Business Profile and much more!"
       btnText : "Subscribe  ✅ "
       URL : "https://dashboard.inspired.digital/register?c=USD&l=month"
       
