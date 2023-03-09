@@ -114,21 +114,21 @@ pricing:
   description : "SEO consultants and agencies are often expensive. We get it. <br> That's why we made an affordable SEO service that gets you results. If you are on a budget it's best to start with the Self starter plan, if need some SEO guidance it's worth going with our Growth plan."
   table:
     # pricing table
-    - title : "Self Service"
+    - title : "Self Service 🧰"
       value : "180.52"
       content : "Everything you need to get started in SEO. That includes Competitor analysis, Keyword Research, Scheduled Reporting, Intergration with GA, GA and GBP and much more!"
       btnText : "Subscribe  ✅ "
       URL : "https://dashboard.inspired.digital/register?c=USD&l=month"
       
     # pricing table
-    - title : "Growth"
+    - title : "Growth 📈"
       value : "481.39"
       content : "Everything in self service and three hours expert SEO consultation per month"
       btnText : "Subscribe  ✅ "
       URL : "https://dashboard.inspired.digital/register?addon=1&c=USD&l=month"
       
     # pricing table
-    - title : "Platinum"
+    - title : "Gold ✨"
       value : "Ask"
       content : "For those who want to skyrocket their SEO"
       btnText : "Contact  ✅ "
