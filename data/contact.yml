@@ -8,21 +8,21 @@ contact:
   address : "71 Shelton Street<br>London WC2H 9JQ England"
 
 # bullet point
-bulletPoint :
+#bulletPoint :
   # bullet point item
-  - title : "Sales"
-    icon : "ti-layers-alt"
-    iconColor : "blue"
-    content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
+  #- title : "Sales"
+    #icon : "ti-layers-alt"
+    #iconColor : "blue"
+    #content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
     
   # bullet point item
-  - title : "Help & Support"
-    icon : "ti-layers-alt"
-    iconColor : "green"
-    content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
+  #- title : "Help & Support"
+    #icon : "ti-layers-alt"
+    #iconColor : "green"
+    #content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
     
   # bullet point item
-  - title : "SalesLegal Departments"
-    icon : "ti-layers-alt"
-    iconColor : "orange"
-    content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
+  #- title : "SalesLegal Departments"
+    #icon : "ti-layers-alt"
+    #iconColor : "orange"
+    #content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."

@@ -71,7 +71,7 @@ googleAnalitycsID = "Your ID"
 
   # Preloader
   [params.preloader]
-  enable = false
+  enable = true
 
   # Navigation button
   [params.navBtn]
