@@ -44,7 +44,7 @@ feature:
 # Marketing section
 marketing:
   enable : true
-  image: "images/marketing/marketing.png"
+  image: "images/seo-consultants.png"
   bgImage : "images/backgrounds/seo-bg.svg"
   title : "A complete SEO toolkit at your fingertips"
   content : "We've put together everything you need to get started in SEO and get your site ranking.<br> The Inspire hub integrates with Google Analytics, Google Business Profile, Google Search Console."
