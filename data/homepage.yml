@@ -68,7 +68,7 @@ service:
       icon : "ti-support"
 
   # service image
-  image: "images/service/service2.jpg"
+  image: "images/service/service22.png"
   # background image
   bgImage : "images/backgrounds/service-bg.svg"
 
