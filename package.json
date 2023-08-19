@@ -4,9 +4,10 @@
   "description": "a hugo theme by themefisher.com",
   "main": "index.js",
   "dependencies": {
-    "postcss-cli": "^6.1.1"
+    "@tinacms/cli": "^1.5.28",
+    "postcss-cli": "^6.1.1",
+    "tinacms": "^1.5.19"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
